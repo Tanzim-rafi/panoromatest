@@ -1,5 +1,5 @@
-const panorama = new PANOLENS.ImagePanorama( 'images/panel1.jpeg' );
-const panorama2 = new PANOLENS.ImagePanorama('images/pano5.jpg');
+const panorama = new PANOLENS.ImagePanorama( 'panel1.jpeg' );
+const panorama2 = new PANOLENS.ImagePanorama('pano5.jpg');
 let imageContainer = document.querySelector('.image-container')
 
 
