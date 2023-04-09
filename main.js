@@ -12,7 +12,7 @@ var infospotPositions = [
 const viewer = new PANOLENS.Viewer({
     container: imageContainer,
     autoRotate: true,
-    autoRotateSpeed: 0.3,
+    autoRotateSpeed: 0.5,
     controlBar: true,
 });
 
