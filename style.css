@@ -21,17 +21,16 @@ h2{
 }
 
 .image-container{
-    height: 26.190rem;
+    width:100%;
+height:100vh;
 
     position: relative;
-    width: 78%;
+
     display: block;
     margin: 0 auto;
     margin-left: 12%;
     overflow: hidden;
-    
-  border: 2px solid #ebb47a;
-  border-radius: 10px;
+    z-index:-2;
 }
 
 canvas{
